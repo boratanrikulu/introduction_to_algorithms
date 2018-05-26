@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <conio.h>
+#include "conio.h"
 
 // fonksiyon tanimlamalari
 void mevcutKisiSayisi(FILE *ff); // DATA.dat dosyasinda hali hazirda bulunan kisi sayisini bulur
